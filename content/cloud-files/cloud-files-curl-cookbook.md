@@ -22,7 +22,7 @@ is an example of how to install cURL on Debian and Ubuntu:
     $ sudo apt-get install curl
 
 Similarly, the following command installs cURL on Fedora, CentOS, and
-Red Hat Enterprise Linux:
+Red Hat Enterprise Linux: 
 
     $ yum install curl
 
